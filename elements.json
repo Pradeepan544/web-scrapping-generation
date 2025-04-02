@@ -1,0 +1,36 @@
+{
+    "buttons": [
+        "\n\u00d7\n",
+        "Close",
+        "Send message",
+        "\n\u00d7\n",
+        "Close",
+        "Sign up",
+        "\n\u00d7\n",
+        "Close",
+        "Log in",
+        "\n\u00d7\n",
+        "Close",
+        "\n\n",
+        "Previous",
+        "Next"
+    ],
+    "links": [
+        "index.html",
+        "index.html",
+        "#",
+        "#",
+        "cart.html",
+        "#",
+        "#",
+        "#",
+        "#",
+        "#carouselExampleIndicators",
+        "#carouselExampleIndicators",
+        "#",
+        "#",
+        "#"
+    ],
+    "inputs": [],
+    "forms": []
+}

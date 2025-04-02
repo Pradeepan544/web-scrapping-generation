@@ -1,0 +1,1 @@
+pip install streamlit requests pandas beautifulsoup4 selenium webdriver-manager google-generativeai python-dotenv openpyxl
